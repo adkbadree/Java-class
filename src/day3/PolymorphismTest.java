@@ -6,7 +6,7 @@ public class PolymorphismTest {
         add (2, 3);
 
     }
-
+// Main method
     public static int add(int a, int b){
         int temp = a+b;
         return temp;

@@ -20,6 +20,7 @@ class Bird {
             }
         }
 
+//Main Method
 
         public class PolyBirds {
 
